@@ -1,0 +1,13 @@
+Numpy 
+Pandas 
+Matplotlib
+Seborn
+streamlit
+sklearn
+
+Tools :
+ Jupyter Notebook
+ Pycharm
+ 
+
+web: sh setup.sh && streamlit run app.py

@@ -5,12 +5,12 @@ This dataset contains Laptop prices , properties and configration of laptop , wi
 ![image](https://github.com/Ashishkumar137/Laptop-Price-Prediction/assets/129428368/05a50fa2-470a-4f47-a66f-99338107f24c)
 
 # Laptop Price Prediction – Machine learning project lifecycle
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Machine learning Modeling
-ML web app development
-Deployment Machine learning app
+Data Cleaning<br/>
+Exploratory Data Analysis<br/>
+Feature Engineering<br/>
+Machine learning Modeling<br/>
+ML web app development<br/>
+Deployment Machine learning app<br/>
 # EDA process 
 ![image](https://github.com/Ashishkumar137/Laptop-Price-Prediction/assets/129428368/c5fc4be8-f688-4b6c-9fc6-e9c9e32e0035)
 ![image](https://github.com/Ashishkumar137/Laptop-Price-Prediction/assets/129428368/6ad091e2-a7d6-48f0-bdef-6b98b2017c31)
